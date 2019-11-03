@@ -1,2 +1,2 @@
-# Cplusplus_Practice
- BasicSyntax_Practice
+# Cplusplus Practice
+ Basic syntax practice
